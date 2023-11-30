@@ -1,0 +1,209 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+  }
+  
+  .search-container {
+    max-width: 700px;
+    margin: 10px auto;
+    
+  }
+  
+  form {
+    display: flex;
+    flex-direction: row; /* Change to row to put items in a horizontal line */
+    align-items: center; /* Center items vertically */
+    justify-content: space-between; /* Distribute space between items */
+    flex-wrap: wrap; /* Allow items to wrap to the next line if needed */
+  }
+  
+  .form-group {
+    flex-basis: calc(25% - 10px); /* Adjust the width of each form group */
+    margin-bottom: 15px;
+    margin-top: 12px;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input, select {
+    border-radius: 10px;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 5px;
+  }
+  
+  .check-in {
+    margin-left: 243px;
+    border-radius: 40px;
+    color: white;
+    padding: 5px;
+    border: 0;
+    font-size: 1.8;
+    cursor: pointer;
+    flex-basis: 40%; 
+    background-color: green  ;
+  }
+  /* .search{
+    color: blue;
+    border-radius: 40px;
+    padding: 5px;
+    border: 0;
+    font-size: 1.8;
+    cursor: pointer;
+    flex-basis: 100%; 
+  } */
+.picture1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300vh;
+    margin-top: 20px;
+    display: block;
+}
+
+
+.image-button {
+    padding: 10px;
+    position: relative;
+    height: auto; 
+    color: white;
+    border: 2px solid  silver;
+    box-shadow: inset;
+    border-radius: 10px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.room p {
+    
+    position: absolute;
+    top: 10%;
+    left: 60%; 
+    transform: translate(-50%, -50%);
+    margin: 0;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    white-space: nowrap;
+    
+}
+
+
+
+.room p.description {
+    position: absolute;
+    top: 50%; /* Adjust the vertical position */
+    left: 42%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:green;
+    border-radius: 5px;
+    /* Background color for the description */
+    
+}
+.room p.free {
+    position: absolute;
+    top: 60%; /* Adjust the vertical position */
+    left: 46%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+}
+
+
+.room p.member {
+    position: absolute;
+    top: 20%; /* Adjust the vertical position */
+    left: 90%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:green;
+    border-radius: 5px;
+    /* Background color for the description */
+    
+}
+.room p.only {
+    position: absolute;
+    top: 30%; /* Adjust the vertical position */
+    left: 90%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+    /* Background color for the description */
+    
+}
+.room p.sale {
+    position: absolute;
+    top: 40%; /* Adjust the vertical position */
+    left: 90%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:black;
+    border-radius: 5px;
+    /* Background color for the description */
+  
+}
+.room p.usd {
+    position: absolute;
+    top: 50%; /* Adjust the vertical position */
+    left: 90%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+    /* Background color for the description */
+   
+}
+.room p.exc {
+    position: absolute;
+    top: 55%; /* Adjust the vertical position */
+    left: 90%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+    /* Background color for the description */
+   
+}
+.room p.view {
+    position: absolute;
+    top: 60%; /* Adjust the vertical position */
+    left: 90%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:green;
+    border-radius: 5px;
+    /* Background color for the description */
+    
+}
+.price{
+    position: absolute;
+    top: 60%; /* Adjust the vertical position */
+    left: 90%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:green;
+    border-radius: 5px;
+    /* Background color for the description */
+    
+}
+
+
+

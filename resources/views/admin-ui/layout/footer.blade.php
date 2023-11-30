@@ -1,0 +1,1 @@
+<footer class="footer"> © Tech Admin Table <a href="https://www.wrappixel.com/">wrappixel.com</a> </footer>

@@ -1,0 +1,156 @@
+.image-modal{
+    padding: 270px;
+    padding-left: 210px;
+    position: relative;
+    height: auto; 
+    color: white;
+    border: 2px solid silver;
+    box-shadow: inset;
+    border-radius: 0px;
+    margin-right: 700px;
+    margin-left: 700px;
+}
+
+  .img4{
+    position: absolute;
+    /* Adjust the vertical position */
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10px;
+    padding: 55px;
+    color:green;
+    border-radius: 5px;
+  }
+  .tex{
+    
+    position: absolute;
+    top: 1%; /* Adjust the vertical position */
+    left: 33%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:black;
+    border-radius: 5px;
+    
+  
+  }
+  .room p.gius {
+    position: absolute;
+    top: 58%; /* Adjust the vertical position */
+    left: 22%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+    /* Background color for the description */
+    
+  }
+  
+  
+  .room p.stan {
+    position: absolute;
+    top: 68%; /* Adjust the vertical position */
+    left: 22%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+    
+  }
+  
+  
+  .room p.amin {
+    position: absolute;
+    top: 75%; /* Adjust the vertical position */
+    left: 22%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:black;
+    border-radius: 5px;
+    /* Background color for the description */
+    
+  }
+  .room p.bed {
+    position: absolute;
+    top: 80%; /* Adjust the vertical position */
+    left: 22%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+    /* Background color for the description */
+    
+  }
+  .room p.ing {
+    position: absolute;
+    top: 85%; /* Adjust the vertical position */
+    left: 22%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+    /* Background color for the description */
+  
+  }
+  .room p.class {
+    position: absolute;
+    top: 90%; /* Adjust the vertical position */
+    left: 22%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+    /* Background color for the description */
+   
+  }
+  .room p.sta{
+    position: absolute;
+    top: 95%; /* Adjust the vertical position */
+    left: 22%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+  }
+  .room p.smok {
+    position: absolute;
+    top: 80%; /* Adjust the vertical position */
+    left: 70%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+    /* Background color for the description */
+   
+  }
+  .room p.non {
+    position: absolute;
+    top: 85%; /* Adjust the vertical position */
+    left: 70%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+    /* Background color for the description */
+    
+  }
+  .pric{
+    position: absolute;
+    top: 94%; /* Adjust the vertical position */
+    left: 90%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 10px;
+    color:silver;
+    border-radius: 5px;
+  }
+  

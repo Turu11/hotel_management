@@ -1,0 +1,379 @@
+
+
+body{
+  background-color: antiquewhite;
+}
+.back{
+  background-image: url('images/backround.jpg');
+}
+h1{
+  font-size:5em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'arial';
+  position: absolute;
+  top:40%;
+  left:35%;
+  transform: translateX(-50);
+}
+h2{
+  font-size:1.5em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: sans-serif;
+  position: absolute;
+  top:30%;
+  left:45%;
+  transform: translateX(-50);
+}
+h3{
+  font-size:2em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: sans-serif;
+  position: absolute;
+  top:60%;
+  left:42%;
+  transform: translateX(-50);
+}
+.booking{
+  background-color: orangered;
+  position: absolute;
+  top:80%;
+  left:47%;
+  color: black;
+}
+.mhead{
+  font-size:3em;
+  margin: 50px;
+  text-align: center;
+  font-family: 'arial';
+}
+.lhead{
+  margin-top: 50px;
+  font-size:3em;
+  text-align: center;
+  font-family: 'arial';
+}
+.ehead{
+  margin-top: 20px;
+  font-size:3em;
+  text-align: center;
+  font-family: 'arial';
+}
+.ehead1{
+  margin-left: 150px;
+  font-size:2em;
+  font-family: 'arial';
+
+}
+.row{
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.row1{
+  display: flex;
+}
+
+.row2{
+  margin-top: 50px;
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.row3{
+  display: flex;
+  padding: 20px;
+}
+.row4{
+  margin-top: 10px;
+  display: flex;
+  padding: 10px;
+  justify-content: space-around;
+}
+.data1{
+  text-align: center;
+  font-family: sans-serif;
+  border: 2px solid black; /* Border style and color */
+  width: 370px; /* Example width */
+  height: 100px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+  color: #763F33;
+  
+}
+.data2{
+  text-align: center;
+  font-family: sans-serif;
+  border: 2px solid black; /* Border style and color */
+  width: 370px; /* Example width */
+  height: 100px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+  color: #763F33;
+  margin-left: 50px;
+
+}
+
+.data3{
+  text-align: center;
+  font-family: sans-serif;
+  border: 2px solid black; /* Border style and color */
+  width: 380px; /* Example width */
+  height: 100px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+  color: #763F33;
+  margin-left: 50px;
+
+}
+.info2{
+font-size:1.5em;
+
+}
+.info5{
+font-size:1.5em;
+
+}
+.info8{
+font-size:1.5em;
+
+}
+.info12{
+font-size:0.7em;
+padding: 10px;
+
+}
+.info15{
+font-size:0.7em;
+padding: 10px;
+
+}
+
+
+.data4{
+  text-align: center;
+  font-family: sans-serif;
+  border: 2px solid black; /* Border style and color */
+  width: 370px; /* Example width */
+  height: 150px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+  color: #763F33;
+}
+
+.data5{
+  text-align: center;
+  font-family: sans-serif;
+  border: 2px solid black; /* Border style and color */
+  width: 370px; /* Example width */
+  height: 150px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+  color: #763F33;
+  margin-left: 50px;
+}
+.data6{
+
+  text-align: center;
+  font-family: sans-serif;
+  border: 2px solid black; /* Border style and color */
+  width: 380px; /* Example width */
+  height: 150px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+  color: #763F33;
+  margin-left: 50px;
+}
+.data7{
+  text-align: center;
+  font-family: sans-serif;
+  border: 2px solid black; /* Border style and color */
+  width: 380px; /* Example width */
+  height: 50px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+  color: #763F33;
+}
+.data8{
+  text-align: center;
+  font-family: sans-serif;
+  border: 2px solid black; /* Border style and color */
+  width: 650px; /* Example width */
+  height: 50px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+  color: #763F33;
+  margin-left: 50px;
+}
+.data9{
+  margin-top: 150px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.data10{
+  margin-top: 150px;
+  margin-left: 100px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.data11{
+  margin-top: 150px;
+  margin-left: 150px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.data12{
+  text-align: center;
+  font-family: sans-serif;
+  border: 1px solid white; /* Border style and color */
+  width: 200px; /* Example width */
+  height: 100px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+}
+.data15{
+  text-align: center;
+  font-family: sans-serif;
+  border: 1px solid white; /* Border style and color */
+  width: 200px; /* Example width */
+  height: 100px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+}
+.data14{
+  text-align: center;
+  font-family: sans-serif;
+  border: 1px solid white; /* Border style and color */
+  width: 200px; /* Example width */
+  height: 100px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+}
+.info10{
+  text-align: center;
+  font-family: sans-serif;
+
+}
+.info11{
+  text-align: center;
+  font-family: sans-serif;
+
+}
+.info12{
+  text-align: center;
+  font-family: sans-serif;
+
+}
+
+.page2{
+  display: inline-block;
+  justify-content: space-between;
+  margin-left: 20px;
+ 
+}
+.page3{
+  top: 90px;
+  left: 160%;
+  position: absolute;
+}
+.page4{
+  position: absolute;
+  padding: 50px;
+}
+.page5{
+  margin-top: 500px;
+}
+.page6{
+  display: inline-block;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+.page7{
+  margin-top: 500px;
+  margin-left: 100px;
+}
+.page8{
+  margin-left: 20px;
+}
+.page9{
+  display: flex;
+  position: absolute;
+}
+
+.shead{
+  font-size:3em;
+  font-family: 'arial';
+  padding: 50px;
+  top: 70px;
+  position: absolute;
+  color: #763F33;
+
+}
+
+.info14{
+  text-align: center;
+  font-size: 1em;
+  top: 300px;
+  padding: 10px; /* Padding around the text */
+  height: 50px;
+  padding: 10px; /* Padding around the text */
+  position: relative;
+}
+
+
+.info13{
+  text-align: center;
+  border: 2px solid black; /* Border style and color */
+  width: 410px; /* Example width */
+  height: 50px;
+  padding: 10px; /* Padding around the text */
+  display: inline-block; /* Make the border fit the text width */
+  color: #763F33;
+}
+.column{
+  margin-right: 50px;
+}
+.column2{
+  margin-left: 0px;
+}
+.column3{
+  margin-left: 50px;
+}
+.column4{
+  margin-left: 50px;
+}
+
+.ending {
+  background: #1A5276 ;
+  color: #fff;
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  height: 400px;
+}
+.ending2 {
+  background: gray ;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 3em;
+  }
+
+  h2 {
+    font-size: 1.2em;
+  }
+
+  h3 {
+    font-size: 1.5em;
+  }
+}
+
+
